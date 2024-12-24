@@ -1,0 +1,16 @@
+OPEN	https://testautomationpractice.blogspot.com/
+PROMPT_ALERT	#promptBtn	Test
+ALERT_ACCEPT	#alertBtn
+CONFIRMATION_ALERT	#confirmBtn prompt
+CONFIRMATION_ALERT_DISMISS	#confirmBtn
+CONFIRMATION_ALERT_ACCEPT	#confirmBtn
+INPUT	#name	admin
+INPUT	#email	password123@gmail.com
+SELECT	#male
+CHECK	#sunday
+CHECK	#monday
+UNCHECK	#monday
+SELECT_FROM_DROPDOWN	#country	Canada
+UPLOAD	#singleFileInput	testuploadfile.xlsx	#singleFileForm>button
+CLICK	submit-btn
+VERIFY	Automation Testing Practice

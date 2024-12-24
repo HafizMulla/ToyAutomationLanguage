@@ -1,0 +1,30 @@
+2024-12-10 11:17:51,519 - ToyAutomationTestSuite - INFO - Initializing test suite...
+2024-12-10 11:17:51,519 - WDM - INFO - ====== WebDriver manager ======
+2024-12-10 11:17:51,755 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 11:17:51,847 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 11:17:51,930 - WDM - INFO - Driver [/Users/hafizulmulla/.wdm/drivers/chromedriver/mac64/131.0.6778.87/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-10 11:17:53,396 - trio_cdp - INFO - ---Launching browser---
+2024-12-10 11:17:53,396 - trio_cdp - INFO - Reading keywords from the test file
+2024-12-10 11:17:53,404 - trio_cdp - INFO - ---Opening URL: https://testautomationpractice.blogspot.com/---
+
+2024-12-10 11:17:57,757 - trio_cdp - INFO - ---Uploading the file testuploadfile.xlsx using the element: '#singleFileInput' ---
+2024-12-10 11:17:57,981 - trio_cdp - WARNING - None
+2024-12-10 11:17:59,057 - trio_cdp - WARNING - None
+2024-12-10 11:18:00,281 - trio_cdp - WARNING - None
+2024-12-10 11:18:01,437 - trio_cdp - WARNING - None
+2024-12-10 11:18:02,494 - trio_cdp - WARNING - None
+2024-12-10 11:18:02,494 - trio_cdp - INFO - ---Inputting text: 'admin' into element: '#name' ---
+2024-12-10 11:18:02,617 - trio_cdp - INFO - ---Inputting text: 'password123@gmail.com' into element: '#email' ---
+2024-12-10 11:18:02,679 - trio_cdp - INFO - ---Selecting the radio button using element: '#male' ---
+2024-12-10 11:18:02,732 - trio_cdp - INFO - ---Selecting the checkbox button using element: '#sunday' ---
+2024-12-10 11:18:02,793 - trio_cdp - WARNING - None
+2024-12-10 11:18:02,793 - trio_cdp - INFO - ---Selecting the checkbox button using element: '#monday' ---
+2024-12-10 11:18:02,839 - trio_cdp - WARNING - None
+2024-12-10 11:18:02,839 - trio_cdp - INFO - ---Deselecting the checkbox button using element: '#monday' ---
+2024-12-10 11:18:02,870 - trio_cdp - WARNING - None
+2024-12-10 11:18:02,870 - trio_cdp - INFO - ---Selecting the Canada from the dropdown using element: '#country' ---
+2024-12-10 11:18:02,908 - trio_cdp - INFO - ---Clicking element: 'submit-btn' ---
+2024-12-10 11:18:02,919 - trio_cdp - INFO - ---Verifying text: 'None'---
+2024-12-10 11:18:02,926 - ToyAutomationTestSuite - ERROR - Error executing keyword 'VERIFY': 'in <string>' requires string as left operand, not NoneType
+2024-12-10 11:18:02,927 - ToyAutomationTestSuite - INFO - Clearing the test suite...
+2024-12-10 11:18:02,927 - trio_cdp - INFO - Closing browser.

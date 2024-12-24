@@ -1,0 +1,8 @@
+2024-12-10 14:54:29,570 - ToyAutomationTestSuite - INFO - Initializing test suite...
+2024-12-10 14:54:29,570 - WDM - INFO - ====== WebDriver manager ======
+2024-12-10 14:54:29,791 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 14:54:30,050 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2024-12-10 14:54:30,226 - WDM - INFO - Driver [/Users/hafizulmulla/.wdm/drivers/chromedriver/mac64/131.0.6778.87/chromedriver-mac-arm64/chromedriver] found in cache
+2024-12-10 14:54:31,721 - trio_cdp - INFO - ---Launching browser---
+2024-12-10 14:54:31,723 - trio_cdp - INFO - Reading keywords from the test file
+2024-12-10 14:54:31,727 - trio_cdp - WARNING - None

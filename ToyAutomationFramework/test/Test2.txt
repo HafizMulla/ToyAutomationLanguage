@@ -1,0 +1,5 @@
+OPEN	https://practicetestautomation.com/practice-test-login/
+INPUT	#username	student
+INPUT	#password	Password123
+CLICK	btn
+VERIFY	Logged In Successfully
